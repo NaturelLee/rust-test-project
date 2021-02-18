@@ -4,6 +4,6 @@ use my_project::pformat;
 
 fn main() {
   print_format();
-  formats::main();
   pformat();
+  formats::main();
 }

@@ -1,4 +1,6 @@
 pub fn main() {
+  println!("this is mod formats");
+
   println!("{} days", 31);
   println!("{} days", 31i64);
 
@@ -9,5 +11,10 @@ pub fn main() {
     object = "the object",
     verb = "the verb",
     subject = "the subject"
-  )
+  );
+
+  println!(
+    "{} of {:b} people know binary, the other half doesn't",
+    1, 2
+  );
 }
