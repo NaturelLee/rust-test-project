@@ -19,7 +19,7 @@
   // Important
   "rust.cfg_test": false,
   "rust-client.revealOutputChannelOn": "warn",
-  "rust-client.logToFile": true,
+  "rust-client.logToFile": false,
   "editor.formatOnSave": true,
   "git.ignoreLimitWarning": true
 }
