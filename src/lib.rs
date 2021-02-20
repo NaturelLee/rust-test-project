@@ -11,6 +11,12 @@ pub mod my {
 }
 
 // define mod using other file
+pub mod conversion;
 pub mod custom_types;
+pub mod expression;
+pub mod flow_of_control;
 pub mod formats;
+pub mod functions;
 pub mod primitives;
+pub mod types;
+pub mod variable_bindings;
