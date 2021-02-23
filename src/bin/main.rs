@@ -8,7 +8,8 @@
 // use my_project::conversion;
 // use my_project::expression;
 // use my_project::flow_of_control;
-use my_project::functions;
+// use my_project::functions;
+use my_project::generics;
 
 fn main() {
     // print_format();
@@ -21,5 +22,6 @@ fn main() {
     // conversion::run();
     // expression::run();
     // flow_of_control::run();
-    functions::run();
+    // functions::run();
+    generics::run();
 }

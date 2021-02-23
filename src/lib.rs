@@ -17,6 +17,7 @@ pub mod expression;
 pub mod flow_of_control;
 pub mod formats;
 pub mod functions;
+pub mod generics;
 pub mod primitives;
 pub mod types;
 pub mod variable_bindings;
