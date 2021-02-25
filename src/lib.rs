@@ -18,6 +18,8 @@ pub mod flow_of_control;
 pub mod formats;
 pub mod functions;
 pub mod generics;
+pub mod macros;
 pub mod primitives;
+pub mod traits;
 pub mod types;
 pub mod variable_bindings;

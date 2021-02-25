@@ -9,7 +9,9 @@
 // use my_project::expression;
 // use my_project::flow_of_control;
 // use my_project::functions;
-use my_project::generics;
+// use my_project::generics;
+// use my_project::traits;
+use my_project::macros;
 
 fn main() {
     // print_format();
@@ -23,5 +25,7 @@ fn main() {
     // expression::run();
     // flow_of_control::run();
     // functions::run();
-    generics::run();
+    // generics::run();
+    // traits::run();
+    macros::run();
 }
