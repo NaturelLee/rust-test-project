@@ -13,13 +13,17 @@ pub mod my {
 // define mod using other file
 pub mod conversion;
 pub mod custom_types;
+pub mod error_handle;
 pub mod expression;
 pub mod flow_of_control;
 pub mod formats;
 pub mod functions;
 pub mod generics;
 pub mod macros;
+pub mod misc;
 pub mod primitives;
+pub mod stds;
+pub mod tests;
 pub mod traits;
 pub mod types;
 pub mod variable_bindings;

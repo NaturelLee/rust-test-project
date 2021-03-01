@@ -11,7 +11,10 @@
 // use my_project::functions;
 // use my_project::generics;
 // use my_project::traits;
-use my_project::macros;
+// use my_project::macros;
+// use my_project::error_handle;
+// use my_project::stds;
+// use my_project::misc;
 
 fn main() {
     // print_format();
@@ -27,5 +30,8 @@ fn main() {
     // functions::run();
     // generics::run();
     // traits::run();
-    macros::run();
+    // macros::run();
+    // error_handle::run();
+    // stds::run();
+    // misc::run();
 }
