@@ -15,6 +15,10 @@
 // use my_project::error_handle;
 // use my_project::stds;
 // use my_project::misc;
+// use my_project::serialize;
+// use my_project::random;
+// use my_project::rsa;
+use my_project::algorithms;
 
 fn main() {
     // print_format();
@@ -34,4 +38,8 @@ fn main() {
     // error_handle::run();
     // stds::run();
     // misc::run();
+    // serialize::run();
+    // random::run();
+    // rsa::run();
+    algorithms::run();
 }

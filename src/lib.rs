@@ -11,6 +11,7 @@ pub mod my {
 }
 
 // define mod using other file
+pub mod algorithms;
 pub mod conversion;
 pub mod custom_types;
 pub mod error_handle;
@@ -22,6 +23,9 @@ pub mod generics;
 pub mod macros;
 pub mod misc;
 pub mod primitives;
+pub mod random;
+pub mod rsa;
+pub mod serialize;
 pub mod stds;
 pub mod tests;
 pub mod traits;
